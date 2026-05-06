@@ -41,7 +41,7 @@ Truly inspired by (Please support them!):
 
 
 **ROUTER SIDE(USE ETHERNET CABLE)**
-width="512" height="331"![2026-01-17 11 41 37](https://github.com/user-attachments/assets/14e2d3f9-1bca-405e-ba80-f360a505dc09)
+![](https://github.com/user-attachments/assets/14e2d3f9-1bca-405e-ba80-f360a505dc09)
 
 
 
