@@ -10,6 +10,7 @@ Truly inspired by (Please support them!):
 - <https://www.youtube.com/watch?v=2tsvBnTIjFo>
 - <https://www.instructables.com/Passive-Network-Tap-Cheap-and-Easy>
 - <https://gist.github.com/jackkongjr/71c102b5e65e575f2d467fc0d2f73045>
+- <https://github.com/jackkongjr>
 
 
 
