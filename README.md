@@ -43,6 +43,14 @@ Truly inspired by (Please support them!):
 **ROUTER SIDE(USE ETHERNET CABLE)**
 ![](https://github.com/user-attachments/assets/14e2d3f9-1bca-405e-ba80-f360a505dc09)
 
+**RESULT**
+
+- https://litter.catbox.moe/bvx0zdudasl7cbkz.MP4
+
+- https://litter.catbox.moe/149k6l7445zjqzz4.jpeg
+
+
+
 
 
 
